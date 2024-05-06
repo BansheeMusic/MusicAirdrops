@@ -1,29 +1,9 @@
-# stage-bootstrap-one-page-event-ticket-booking-theme
-Stage is a stylish, one page theme for event ticket booking. It has a clean, minimal and modern design ideal for any type of event ticket booking. It is 100% mobile-friendly and built with Bootstrap.
+Banshee is a Web 3 Music Platform built on top of Moonbeam.
+THe main feature of Banshee is our Music Airdrops 
+.
+Batch.sol
+Transaction Hash- 0x383489e853d4aa0522822d14f3e4d250ebe64382da93aef008b8f4d4a672f37d
 
-<img src="http://www.pixpalette.com/wp-content/uploads/2017/05/stage-desktop-view.png" alt="">
+Banshee Membership NFT- 0x4Cf8A7E5e610fBD9a273f211548f1bEC8c933532
 
-<h3>Features</h3>
-<ul>
-<li>Free one-page template</li>
-<li>Built with Bootstrap</li>
-<li>Fully responsive</li>
-<li>Clean and commented code</li>
-</ul>
-
-<h3>Credits</h3>
-<ul>
-<li><a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
-<li><a href="http://getbootstrap.com/" target="_blank">Twitter Bootstrap</a></li>
-</ul>
-
-<h3>Designed and Developed by:</h3>
-<ul>
-<li><a target="_blank" href="http://www.pixpalette.com/">http://www.pixpalette.com/</a></li>
-</ul>
-
-<h3>Demo &amp; Download</h3>
-<ul>
-<li>Blog Post : <a target="_blank" href="http://www.pixpalette.com/stage-bootstrap-one-page-event-ticket-booking-theme/">http://www.pixpalette.com/stage-bootstrap-one-page-event-ticket-booking-theme/</a>
-<li>Demo : <a target="_blank" href="http://demo.pixpalette.com/stage-bootstrap-one-page-event-ticket-booking-theme/">http://demo.pixpalette.com/stage-bootstrap-one-page-event-ticket-booking-theme/</a></li>
-<li>Download : <a target="_blank" href="https://github.com/ashishtayade/stage-bootstrap-one-page-event-ticket-booking-theme/archive/master.zip" class="download-demo-btn">https://github.com/ashishtayade/stage-bootstrap-one-page-event-ticket-booking-theme/archive/master.zip</a></li>
+Banshee Song NFT- 0x13E10e24aE9EC1E917532a94f15091d91E2D2F58
